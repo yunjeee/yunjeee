@@ -1,56 +1,48 @@
-<h1 align="center">손윤지 · Yunji Son</h1>
-<p align="center">
-  이화여자대학교 컴퓨터공학과 · 콘텐츠융합 복수전공 (2026.02 졸업)
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e0c3fc,100:8ec5fc&height=220&section=header&text=Yunji%20Son&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=NLP%20·%20Human–AI%20Interaction%20·%20LLM%20Applications&descSize=18&descAlignY=62&animation=fadeIn" width="100%"/>
+  <a href="mailto:sonnyunji@gmail.com"><img src="https://img.shields.io/badge/sonnyunji@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+<img src="https://komarev.com/ghpvc/?username=yunjeee&style=flat-square&color=blueviolet&label=Profile+Views"/>
+</div>
+<br>
+
+</div>
+<br>
+<h2>🎓 &nbsp; Education</h2>
+<p>
+<b>이화여자대학교 컴퓨터공학 (주전공) · 융합콘텐츠 (복수전공)</b>&nbsp;&nbsp;<sub>2021.03 - 2026.02</sub>&nbsp; 
 </p>
-<p align="center">
-  <i>Natural Language Processing · Human–AI Interaction · Applied NLP for Content &amp; Narrative · LLM Applications</i>
+<br>
+<h2>📌 &nbsp; Projects</h2>
+<p>
+<b>한국 설화 모티프 텍스트마이닝</b> &nbsp; <sub><i>졸업논문 · 2025.09 – 2025.12</i></sub><br>
+Propp · Thompson 이론 기반 한국 설화 161편 크롤링·큐레이션<br>
+TF–IDF · LDA로 5개 잠재 서사 원형 추출 및 지역별 분포 분석
 </p>
-<p align="center">
-  <a href="mailto:sonnyunji@gmail.com">sonnyunji@gmail.com</a>
+<p>
+<b>LLM 기반 선물 추천 서비스, CareFli</b> &nbsp; <sub><i>졸업프로젝트 · 2024.03 – 2024.12</i></sub><br>
+3인 1년 캡스톤 UI/UX 설계 및 프론트엔드 (React + Figma + 백엔드 연동)
+</p>
+<p>
+<b>신년계획 수립 및 성취 지원 서비스, Momentum</b> &nbsp; <sub><i>연합동아리 · 2024.12 – 2025.02</i></sub><br>
+11인 팀 PM, GPT API 프롬프트 튜닝 · Codeit Boost 데모데이 3위
+</p>
+<br>
+<h2>💼 &nbsp; Experience</h2>
+<p>
+<b>EPOCH (데이터사이언스 연합동아리)</b> &nbsp; <sub><i>운영진 · 2025.08 – 현재</i></sub>
+</p>
+<p>
+<b>LG Aimers</b> &nbsp; <sub><i>7기 · 8기 · 2025 – 2026</i></sub><br>
+</p>
+<br>
+<h2>🏆 &nbsp; Awards & Certificates</h2>
+<p>
+🥈 &nbsp; <b>최우수상 (2위)</b> &nbsp;·&nbsp; 제1회 생성형 AI 활용 공모전, 한국에듀테크산업협회 <i>(2024.09)</i><br>
+📜 &nbsp; <b>자격증</b> &nbsp;·&nbsp; 빅데이터분석기사 · SQLD · ADsP
 </p>
 
-🎓 학력
-<table>
-  <tr><td><b>학교</b></td><td>이화여자대학교</td></tr>
-  <tr><td><b>재학</b></td><td>2021.03 &mdash; 2026.02</td></tr>
-  <tr><td><b>전공</b></td><td>컴퓨터공학 (주전공) · 콘텐츠융합 (복수전공)</td></tr>
-  <tr><td><b>학점</b></td><td>GPA 3.93 / 4.5</td></tr>
-</table>
 
-📌 주요 프로젝트
-<table>
-  <tr>
-    <td><b>한국 설화 모티프 텍스트마이닝</b><br><sub>졸업논문 · 2025.09 – 2025.12</sub></td>
-    <td>Propp · Thompson 이론 기반 한국 설화 161편 크롤링·큐레이션<br>TF–IDF · LDA로 5개 잠재 서사 원형 추출 및 지역별 분포 분석</td>
-  </tr>
-  <tr>
-    <td><b>LLM 기반 선물 추천 서비스</b><br><sub>캡스톤 · 2024.03 – 2024.12</sub></td>
-    <td>3인 1년 캡스톤 프론트엔드 (React + Figma + 백엔드 연동)</td>
-  </tr>
-  <tr>
-    <td><b>연말 목표 트래킹 앱</b><br><sub>Founder &amp; PM · 2024.12 – 2025.02</sub></td>
-    <td>11인 팀PM, GPT API 프롬프트 튜닝<br>Codeit Boost 쇼케이스 3위, Vercel 배포</td>
-  </tr>
-</table>
-
-💼 활동 및 경력
-<table>
-  <tr>
-    <td><b>EPOCH</b><br><sub>운영진 · 2025.08 – 현재</sub></td>
-    <td>대학연합 데이터사이언스 학회<br>· 연구팀: ResNet · Transformer 논문 세미나, 재구현·확장 실험 커리큘럼 설계<br>· 데이터톤 인프라: AWS S3 / Glue / Athena ETL + Lambda 검증·채점 파이프라인 구축</td>
-  </tr>
-  <tr>
-    <td><b>LG Aimers</b><br><sub>7기 · 8기 · 2025 – 2026</sub></td>
-    <td>8기 (LLM 경량화): EXAONE QLoRA / PEFT · quantization, <b>628팀 중 58위</b></td>
-  </tr>
-</table>
-
-🏆 수상 · 자격
-<table>
-  <tr><td>🥈 <b>최우수상 (2위)</b></td><td>제1회 생성형 AI 활용 공모전, 한국에듀테크산업협회 (2024.09)</td></tr>
-  <tr><td>📜 <b>자격증</b></td><td>빅데이터분석기사 · SQLD · ADsP</td></tr>
-</table>
-
+<br>
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
