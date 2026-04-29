@@ -1,11 +1,6 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e0c3fc,100:8ec5fc&height=220&section=header&text=Yunji%20Son&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=NLP%20·%20Human–AI%20Interaction%20·%20LLM%20Applications&descSize=18&descAlignY=62&animation=fadeIn" width="100%"/>
-  <a href="mailto:sonnyunji@gmail.com"><img src="https://img.shields.io/badge/sonnyunji@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 </div>
-<br>
-
-</div>
-<br>
 <h2>🎓 &nbsp; Education</h2>
 <p>
 <b>이화여자대학교 컴퓨터공학 (주전공) · 융합콘텐츠 (복수전공)</b>&nbsp;&nbsp;<sub>2021.03 - 2026.02</sub>&nbsp; 
@@ -78,4 +73,8 @@ TF–IDF · LDA로 5개 잠재 서사 원형 추출 및 지역별 분포 분석
   <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp;
   <img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=for-the-badge&logo=jupyter&logoColor=F37726" />&nbsp;
   <img src="https://img.shields.io/badge/Colab-2C2C32.svg?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />&nbsp;
+</div>
+<h3 align="center">📭 Contact 📭</h3>
+<div align="center">
+  <a href="mailto:sonnyunji@gmail.com"><img src="https://img.shields.io/badge/sonnyunji@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 </div>
