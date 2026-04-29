@@ -1,7 +1,6 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e0c3fc,100:8ec5fc&height=220&section=header&text=Yunji%20Son&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=NLP%20·%20Human–AI%20Interaction%20·%20LLM%20Applications&descSize=18&descAlignY=62&animation=fadeIn" width="100%"/>
   <a href="mailto:sonnyunji@gmail.com"><img src="https://img.shields.io/badge/sonnyunji@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
-<img src="https://komarev.com/ghpvc/?username=yunjeee&style=flat-square&color=blueviolet&label=Profile+Views"/>
 </div>
 <br>
 
